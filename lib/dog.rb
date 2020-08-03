@@ -1,7 +1,8 @@
 # Your code goes here!
 class Dog 
   
-attr_accessor
+  def name = (name)
+    @name = name 
   
   def bark 
     puts "woof!"
