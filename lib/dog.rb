@@ -1,13 +1,7 @@
 # Your code goes here!
 class Dog 
   
-  def name 
-  @name = name 
-  end
-  
-  def name 
-    @name
-  end 
+attr_accessor
   
   def bark 
     puts "woof!"
